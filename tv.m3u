@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Channel INFO" tvg-logo="https://ganteng.stream/wp-content/uploads/2019/03/Untitled-2-1.png" group-title="Server ID",Channel INFO
+http://tvku.live:8888/1088864371/4061517110/1
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Server ID: NET HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="Server ID",Server ID: NET HD
+http://tvku.live:8888/1088864371/4061517110/3579
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Server ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Server ID",Server ID: Trans 7
+http://tvku.live:8888/1088864371/4061517110/3583
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Server ID: Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Server ID",Server ID: Trans TV
+http://tvku.live:8888/1088864371/4061517110/3584
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="Server ID: ANTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Server ID",Server ID: ANTV
+http://tvku.live:8888/1088864371/4061517110/3588
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="Server ID: SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="Server ID",Server ID: SCTV
+http://tvku.live:8888/1088864371/4061517110/3593
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Server ID",Server ID: Indosiar
+http://tvku.live:8888/1088864371/4061517110/4839
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="Server ID: TV One" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Server ID",Server ID: TV One
+http://tvku.live:8888/1088864371/4061517110/3587
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Server ID: Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Server ID",Server ID: Metro TV
+http://tvku.live:8888/1088864371/4061517110/3589
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Server ID: Kompas TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="Server ID",Server ID: Kompas TV
+http://tvku.live:8888/1088864371/4061517110/3590
